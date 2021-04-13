@@ -6,7 +6,7 @@ import java.util.Stack;
 
 /**
  * Programmers Coding Test Level 1<br/>
- * 크레인 인형뽑기 게임
+ * 크레인 인형뽑기 게임 - 2019 카카오 개발자 겨울 인턴십
  * 
  * @author Dev.Mook
  * @since 2021.04.09

@@ -2,11 +2,10 @@ package mook.programmers.level_1.recommend_new_id;
 
 /**
  * Programmers Coding Test Level 1<br/>
- * 신규 아이디 추천
+ * 신규 아이디 추천 - 2021 KAKAO BLIND RECRUITMENT 
  * 
  * @author Dev.Mook
  * @since 2021.04.13
- *
  */
 public class RecommendNewID {
 

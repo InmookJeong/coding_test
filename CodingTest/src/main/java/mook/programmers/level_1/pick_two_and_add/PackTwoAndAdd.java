@@ -10,7 +10,7 @@ import java.util.TreeSet;
 
 /**
  * Programmers Coding Test Level 1<br/>
- * 두 개 뽑아서 더하기
+ * 두 개 뽑아서 더하기 - 월간 코드 챌린지 시즌1
  * 
  * @author Dev.Mook
  * @since 2021.04.09
