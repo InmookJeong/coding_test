@@ -6,6 +6,13 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+/**
+ * Programmers Coding Test Level 1<br/>
+ * 완주하지 못한 선수
+ * 
+ * @author Dev.Mook
+ * @since 2021.04.12
+ */
 public class APlayerWhoCouldNotFinish {
 
 	public static void main(String[] args) {
