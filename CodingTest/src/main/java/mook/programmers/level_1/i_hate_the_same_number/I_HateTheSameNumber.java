@@ -5,6 +5,13 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Programmers Coding Test Level 1<br/>
+ * 가운데 글짜 가져오기
+ * 
+ * @author Dev.Mook
+ * @since 2021.04.21
+ */
 public class I_HateTheSameNumber {
 
 	public static void main(String[] args) {
